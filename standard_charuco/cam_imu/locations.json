@@ -1,0 +1,24 @@
+{
+  "locations": [
+    {
+      "lat": 39.7792848,
+      "lon": -84.0702325,
+      "altitude_m": 266.5,
+      "accuracy_m": 11.147000312805176,
+      "vertical_accuracy_m": 0.9869863986968994,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 213872855000
+    },
+    {
+      "lat": 39.7792801,
+      "lon": -84.0702196,
+      "altitude_m": 266.79998779296875,
+      "accuracy_m": 11.954999923706055,
+      "vertical_accuracy_m": 0.9801818132400513,
+      "speed_m_s": 0.20180940628051758,
+      "bearing_degrees": 115.36154174804688,
+      "time_usec": 213877859000
+    }
+  ]
+}
